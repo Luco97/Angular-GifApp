@@ -18,5 +18,5 @@ export class SidebarComponent {
     //console.log(termino);
     this.gifService.buscarGifs(termino);
   }
-
+  //texto prueba para probar commit
 }
